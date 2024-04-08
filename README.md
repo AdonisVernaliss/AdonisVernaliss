@@ -48,3 +48,13 @@
 </p>
 
 <h2></h2>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/a-v-b38776296"><img src="https://img.shields.io/badge/-AV-000000?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:adonisvernalis3301@gmail.com"><img src="https://img.shields.io/badge/-adonisvernalis@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/thisisbillgates/"><img src="https://img.shields.io/badge/AdonisVernaliss-000000?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/stephenhawking/"><img src="https://img.shields.io/badge/-AdonisVernaliss-000000?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/elonmusk"><img src="https://img.shields.io/badge/-AdonisVernaliss-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
+</p>
