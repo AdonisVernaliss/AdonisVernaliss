@@ -33,3 +33,18 @@
 ![TorBrowser](https://img.shields.io/badge/-Tor%20Browser-%2305122A?style=for-the-badge&logo=torbrowser&logoColor=7D4698)&nbsp;
 
 <h2></h2>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AdonisVernaliss">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdonisVernaliss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdonisVernaliss&layout=compact&langs_count=8&count_private=true&theme=algolia"/>
+</a>
+</p>
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+<h2></h2>
