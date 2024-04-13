@@ -4,7 +4,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img alt="..." src="assets/0eef981ba99f4f099d75d6ba070598f7.gif" align="right" width="350"/>
+<img alt="..." src="assets/0eef981ba99f4f099d75d6ba070598f7.gif" align="right" width="320"/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
