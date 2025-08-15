@@ -8,24 +8,18 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=Postman)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=for-the-badge&logo=Ubuntu)&nbsp;
+![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=for-the-badge&logo=wireshark)&nbsp;
+![Metasploit](https://img.shields.io/badge/Metasploit-05122A?style=for-the-badge&logo=Metasploit&logoColor=2596CD)&nbsp;
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-05122A?style=for-the-badge&logo=Burp+Suite&logoColor=FF6633)&nbsp;
+![OWASP](https://img.shields.io/badge/OWASP-05122A?style=for-the-badge&logo=OWASP&logoColor=FFFFFF)&nbsp;
 ![ArchLinux](https://img.shields.io/badge/-Arch%20Linux-05122A?style=for-the-badge&logo=archlinux)&nbsp;
-![RedHat](https://img.shields.io/badge/-redhat-05122A?style=for-the-badge&logo=redhat&logoColor=red)&nbsp;
 ![KaliLinux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=for-the-badge&logo=kalilinux)&nbsp;
 ![HackTheBox](https://img.shields.io/badge/-HackTheBox-05122A?style=for-the-badge&logo=hackthebox)&nbsp;
 ![TryHackMe](https://img.shields.io/badge/-TRYHACKME-05122A?style=for-the-badge&logo=tryhackme)&nbsp;
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=for-the-badge&logo=wireshark)&nbsp;
+
 
 <h2></h2>
 
