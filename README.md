@@ -4,22 +4,23 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img alt="..." src="assets/0eef981ba99f4f099d75d6ba070598f7.gif" align="right" width="320"/>
+<img alt="..." src="assets/0eef981ba99f4f099d75d6ba070598f7.gif" align="right" width="250" hspace="20"/>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL)&nbsp;
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=for-the-badge&logo=wireshark)&nbsp;
-![Metasploit](https://img.shields.io/badge/Metasploit-05122A?style=for-the-badge&logo=Metasploit&logoColor=2596CD)&nbsp;
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-05122A?style=for-the-badge&logo=Burp+Suite&logoColor=FF6633)&nbsp;
-![OWASP](https://img.shields.io/badge/OWASP-05122A?style=for-the-badge&logo=OWASP&logoColor=FFFFFF)&nbsp;
-![ArchLinux](https://img.shields.io/badge/-Arch%20Linux-05122A?style=for-the-badge&logo=archlinux)&nbsp;
-![KaliLinux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=for-the-badge&logo=kalilinux)&nbsp;
-![HackTheBox](https://img.shields.io/badge/-HackTheBox-05122A?style=for-the-badge&logo=hackthebox)&nbsp;
-![TryHackMe](https://img.shields.io/badge/-TRYHACKME-05122A?style=for-the-badge&logo=tryhackme)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL)&nbsp;&nbsp;
+![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=for-the-badge&logo=wireshark)&nbsp;&nbsp;
+![Metasploit](https://img.shields.io/badge/Metasploit-05122A?style=for-the-badge&logo=Metasploit&logoColor=2596CD)&nbsp;&nbsp;
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-05122A?style=for-the-badge&logo=Burp+Suite&logoColor=FF6633)&nbsp;&nbsp;
+![OWASP](https://img.shields.io/badge/OWASP-05122A?style=for-the-badge&logo=OWASP&logoColor=FFFFFF)&nbsp;&nbsp;
+![ArchLinux](https://img.shields.io/badge/-Arch%20Linux-05122A?style=for-the-badge&logo=archlinux)&nbsp;&nbsp;
+![KaliLinux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=for-the-badge&logo=kalilinux)&nbsp;&nbsp;
+![HackTheBox](https://img.shields.io/badge/-HackTheBox-05122A?style=for-the-badge&logo=hackthebox)&nbsp;&nbsp;
+![TryHackMe](https://img.shields.io/badge/-TRYHACKME-05122A?style=for-the-badge&logo=tryhackme)&nbsp;&nbsp;
 
+<br clear="right" />
 
 <h2></h2>
 
