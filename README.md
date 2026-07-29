@@ -42,7 +42,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://a-vernalis.com/en"><img alt="A—Vernalis website" src="https://img.shields.io/badge/A%E2%80%94VERNALIS-WEBSITE-C1A36B?style=for-the-badge&labelColor=172019&logo=googlechrome&logoColor=E7E0D1"/></a>
+<a href="https://a-vernalis.com/en"><img alt="A—Vernalis" src="https://img.shields.io/badge/A%E2%80%94VERNALIS-172019?style=for-the-badge&logo=googlechrome&logoColor=E7E0D1"/></a>
 <a href="https://linkedin.com/in/a-v-b38776296"><img src="https://img.shields.io/badge/-AV-000000?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:adonisvernalis3301@gmail.com"><img src="https://img.shields.io/badge/-adonisvernalis@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/thisisbillgates/"><img src="https://img.shields.io/badge/AdonisVernaliss-000000?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
